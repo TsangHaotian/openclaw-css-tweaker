@@ -1,4 +1,4 @@
-# OpenClaw CSS Customization Tool
+# openclaw-css-tweaker
 
 🎨 A simple and easy-to-use OpenClaw interface customization tool. No need to understand CSS syntax - modify colors with just a few clicks in the graphical interface.
 
